@@ -1,3 +1,3 @@
 # xenoxide
 
-A chat app for Windows ig
+A chat cli ig
